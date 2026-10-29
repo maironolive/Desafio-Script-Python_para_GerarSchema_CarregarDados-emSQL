@@ -290,3 +290,14 @@ carregar_dados.py
      v
 Dados carregados no schema desafio_lighthouse
 ```
+
+---
+### 🚀 Projetos e Portfólio
+Desenvolvo projetos práticos envolvendo análise de dados, dashboards, indicadores de desempenho, ETL e visualização analítica, conectando tecnologia e problemas reais de negócio.
+
+- 📊 [Portfólio com análises no Medium](https://medium.com/@maironhenrique)
+- 📈 [Portfólio com Dashboards](https://app.xperiun.com/in/maironhenrique)
+---
+### 📫 Contato
+**E-mail**: maironhenrique@hotmail.com  
+**LinkedIn**: https://www.linkedin.com/in/maironhenriquedeoliveira
